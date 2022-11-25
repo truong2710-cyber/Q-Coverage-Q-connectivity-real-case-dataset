@@ -5,6 +5,6 @@ The dataset contains the location of 43 targets which are public transport termi
 - Scenario 1: Low q for all of the targets with q_max = 2
 - Scenario 2: High q for all of the targets with q_max = 5
 
-The original coordinates are retrieved from https://mygeodata.cloud/osm/data/download/. We then rescale the coordinate to fit them in the range [1000, 1000]. 
+The original coordinates are retrieved from https://mygeodata.cloud/osm/data/download/. We then rescale the coordinates to fit them in the range [1000, 1000]. 
 
 ![Alt text](./visualize/targets.png?raw=true "Title")
